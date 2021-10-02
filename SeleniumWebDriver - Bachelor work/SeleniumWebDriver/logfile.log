@@ -1,0 +1,196 @@
+2021-06-26 12:09:32,261 ERROR [Log] T-shirt menu failed. 
+2021-06-26 12:09:32,262 ERROR [Log] Expected condition failed: waiting for element to be clickable: By.xpath: .//div[@id='block_top_menu']//li[3] (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-04R7I9N', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.19 (1bf021f248676..., userDataDir: C:\Users\ASUS\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:60467}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 755211217fbefcb2816f6bf775930a43 
+2021-06-26 12:30:21,397 ERROR [Log] Dresses evening failed. 
+2021-06-26 12:30:21,398 ERROR [Log] element not interactable: http://automationpractice.com/index.php?id_category=8&controller=category has no size and location
+  (Session info: chrome=91.0.4472.124)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-04R7I9N', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.19 (1bf021f248676..., userDataDir: C:\Users\ASUS\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:60124}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3883ca9f5f140519789695837912f877 
+2021-06-26 12:30:34,212 ERROR [Log] Dresses casual failed. 
+2021-06-26 12:30:34,212 ERROR [Log] element not interactable: http://automationpractice.com/index.php?id_category=8&controller=category has no size and location
+  (Session info: chrome=91.0.4472.124)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-04R7I9N', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.19 (1bf021f248676..., userDataDir: C:\Users\ASUS\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:52843}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7c015c3ffd674360fbc00c4c477dc63a 
+2021-06-26 12:30:46,920 ERROR [Log] Dresses summer failed. 
+2021-06-26 12:30:46,921 ERROR [Log] element not interactable: http://automationpractice.com/index.php?id_category=8&controller=category has no size and location
+  (Session info: chrome=91.0.4472.124)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-04R7I9N', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.19 (1bf021f248676..., userDataDir: C:\Users\ASUS\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:49716}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 2a93f3e9d98ebd61599f3d5232125937 
+2021-06-30 10:57:33,306 ERROR [Log] T-shirt menu failed. 
+2021-06-30 10:57:33,307 ERROR [Log] Expected condition failed: waiting for element to be clickable: By.xpath: .//div[@id='block_top_menu']//li[3] (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-04R7I9N', ip: '172.16.252.118', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.19 (1bf021f248676..., userDataDir: C:\Users\ASUS\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:63871}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9cdbef624c89e8b1d60e100019f3895d 
+2021-06-30 11:00:10,287 ERROR [Log] T-shirt menu failed. 
+2021-06-30 11:00:10,287 ERROR [Log] Expected condition failed: waiting for element to be clickable: By.xpath: .//div[@id='block_top_menu']//li[3] (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-04R7I9N', ip: '172.16.252.118', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.19 (1bf021f248676..., userDataDir: C:\Users\ASUS\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:50435}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7e7349d965994efd8bb25b7468ce682a 
+2021-07-08 18:22:07,993 INFO  [Log]  ForgotPassword tests started! 
+2021-07-08 18:22:33,397 INFO  [Log] ------------------------------------------------- 
+2021-07-08 18:22:33,397 INFO  [Log] -----------     loadHomePageAndLogin      ---------------- 
+2021-07-08 18:22:33,397 INFO  [Log] ------------------------------------------------- 
+2021-07-08 18:22:33,397 INFO  [Log] test started! 
+2021-07-08 18:22:36,598 ERROR [Log] Load Home page and login is failed. 
+2021-07-08 18:22:36,599 ERROR [Log] no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.124)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-04R7I9N', ip: '172.16.252.52', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.19 (1bf021f248676..., userDataDir: C:\Users\ASUS\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:51158}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 2190b9f0f19125e7c4db3d8758e5de96 
+2021-07-08 18:22:38,589 INFO  [Log] ------------------------------------------------- 
+2021-07-08 18:22:38,589 INFO  [Log] -----------     readXml      ---------------- 
+2021-07-08 18:22:38,589 INFO  [Log] ------------------------------------------------- 
+2021-07-08 18:22:38,589 INFO  [Log] test started! 
+2021-07-08 18:22:40,230 DEBUG [Log] File name is C:\Users\ASUS\Desktop\DiplomnaQA\The Project - source files\init.xlsx 
+2021-07-08 18:22:40,261 INFO  [Log] First cell is: TEST_NAME 
+2021-07-08 18:22:40,263 INFO  [Log] First cell is: BuyItemDetailsTest 
+2021-07-08 18:22:40,264 INFO  [Log] First cell is: TestWomenSubmenus 
+2021-07-08 18:22:40,265 INFO  [Log] First cell is: TestTshirtMenu 
+2021-07-08 18:22:40,267 INFO  [Log] First cell is: TestDressesSubmenus 
+2021-07-08 18:22:40,268 INFO  [Log] First cell is: BuyItemQuickViewTest 
+2021-07-08 18:22:40,269 INFO  [Log] First cell is: PopularTests 
+2021-07-08 18:22:40,270 INFO  [Log] First cell is: BuyItemQuickViewTest 
+2021-07-08 18:22:40,272 INFO  [Log] First cell is: CategoriesMyAccount 
+2021-07-08 18:22:40,273 INFO  [Log] First cell is: CategoriesWomenTest 
+2021-07-08 18:22:40,274 INFO  [Log] First cell is: CategoriesInformationTest 
+2021-07-08 18:22:40,277 INFO  [Log] First cell is: ContactUsTests 
+2021-07-08 18:22:40,281 INFO  [Log] First cell is: NewsletterTest 
+2021-07-08 18:22:40,282 INFO  [Log] First cell is: StoreInformationTest 
+2021-07-08 18:22:40,283 INFO  [Log] First cell is: SearchUnexistingItem 
+2021-07-08 18:22:40,284 INFO  [Log] First cell is: BestSellersTests 
+2021-07-08 18:22:40,285 INFO  [Log] ------------------------------------------------- 
+2021-07-08 18:22:40,285 INFO  [Log] -----------     E N D  TEST     ---------------- 
+2021-07-08 18:22:40,285 INFO  [Log] ------------------------------------------------- 
+2021-07-08 18:22:42,003 INFO  [Log] registration test started! 
+2021-07-08 18:22:53,520 ERROR [Log] Successful registration is failed. 
+2021-07-08 18:22:53,520 ERROR [Log] element not interactable: [object HTMLOptionElement] has no size and location
+  (Session info: chrome=91.0.4472.124)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-04R7I9N', ip: '172.16.252.52', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.19 (1bf021f248676..., userDataDir: C:\Users\ASUS\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:53159}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: db0f79b600517fb735f57b63d6d5825a 
+2021-07-08 18:25:12,959 INFO  [Log]  ForgotPassword tests started! 
+2021-07-08 18:25:37,301 INFO  [Log] ------------------------------------------------- 
+2021-07-08 18:25:37,301 INFO  [Log] -----------     loadHomePageAndLogin      ---------------- 
+2021-07-08 18:25:37,301 INFO  [Log] ------------------------------------------------- 
+2021-07-08 18:25:37,303 INFO  [Log] test started! 
+2021-07-08 18:25:48,457 INFO  [Log] Username= anni97.test@gmail.com, pass= Anna1234 
+2021-07-08 18:25:48,794 INFO  [Log] ------------------------------------------------- 
+2021-07-08 18:25:48,794 INFO  [Log] -----------     E N D  TEST     ---------------- 
+2021-07-08 18:25:48,794 INFO  [Log] ------------------------------------------------- 
+2021-07-08 18:25:51,042 INFO  [Log] ------------------------------------------------- 
+2021-07-08 18:25:51,042 INFO  [Log] -----------     readXml      ---------------- 
+2021-07-08 18:25:51,042 INFO  [Log] ------------------------------------------------- 
+2021-07-08 18:25:51,042 INFO  [Log] test started! 
+2021-07-08 18:25:52,712 DEBUG [Log] File name is C:\Users\ASUS\Desktop\DiplomnaQA\The Project - source files\init.xlsx 
+2021-07-08 18:25:52,723 INFO  [Log] First cell is: TEST_NAME 
+2021-07-08 18:25:52,723 INFO  [Log] First cell is: BuyItemDetailsTest 
+2021-07-08 18:25:52,724 INFO  [Log] First cell is: TestWomenSubmenus 
+2021-07-08 18:25:52,725 INFO  [Log] First cell is: TestTshirtMenu 
+2021-07-08 18:25:52,726 INFO  [Log] First cell is: TestDressesSubmenus 
+2021-07-08 18:25:52,726 INFO  [Log] First cell is: BuyItemQuickViewTest 
+2021-07-08 18:25:52,727 INFO  [Log] First cell is: PopularTests 
+2021-07-08 18:25:52,727 INFO  [Log] First cell is: BuyItemQuickViewTest 
+2021-07-08 18:25:52,728 INFO  [Log] First cell is: CategoriesMyAccount 
+2021-07-08 18:25:52,728 INFO  [Log] First cell is: CategoriesWomenTest 
+2021-07-08 18:25:52,729 INFO  [Log] First cell is: CategoriesInformationTest 
+2021-07-08 18:25:52,729 INFO  [Log] First cell is: ContactUsTests 
+2021-07-08 18:25:52,730 INFO  [Log] First cell is: NewsletterTest 
+2021-07-08 18:25:52,730 INFO  [Log] First cell is: StoreInformationTest 
+2021-07-08 18:25:52,731 INFO  [Log] First cell is: SearchUnexistingItem 
+2021-07-08 18:25:52,731 INFO  [Log] First cell is: BestSellersTests 
+2021-07-08 18:25:52,731 INFO  [Log] ------------------------------------------------- 
+2021-07-08 18:25:52,731 INFO  [Log] -----------     E N D  TEST     ---------------- 
+2021-07-08 18:25:52,731 INFO  [Log] ------------------------------------------------- 
+2021-07-08 18:25:55,293 INFO  [Log] registration test started! 
+2021-07-08 18:26:06,819 ERROR [Log] Successful registration is failed. 
+2021-07-08 18:26:06,820 ERROR [Log] element not interactable: [object HTMLOptionElement] has no size and location
+  (Session info: chrome=91.0.4472.124)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-04R7I9N', ip: '172.16.252.52', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.19 (1bf021f248676..., userDataDir: C:\Users\ASUS\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:59785}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 4e70f1f2b19500cad30aaa59ba4c9909 
+2021-07-08 18:26:10,099 INFO  [Log] registration test - unsuccessful - started! 
+2021-07-08 18:26:29,521 ERROR [Log] Registration unsuccessful is failed. 
+2021-07-08 18:26:29,521 ERROR [Log] Expected condition failed: waiting for presence of element located by: By.xpath: .//div[@class='alert alert-danger']/p (tried for 5 second(s) with 500 milliseconds interval) 
+2021-07-08 18:28:45,751 INFO  [Log]  ForgotPassword tests started! 
+2021-07-08 18:29:12,463 INFO  [Log] ------------------------------------------------- 
+2021-07-08 18:29:12,464 INFO  [Log] -----------     loadHomePageAndLogin      ---------------- 
+2021-07-08 18:29:12,464 INFO  [Log] ------------------------------------------------- 
+2021-07-08 18:29:12,464 INFO  [Log] test started! 
+2021-07-08 18:29:21,359 INFO  [Log] Username= anni97.test@gmail.com, pass= Anna1234 
+2021-07-08 18:29:21,570 INFO  [Log] ------------------------------------------------- 
+2021-07-08 18:29:21,570 INFO  [Log] -----------     E N D  TEST     ---------------- 
+2021-07-08 18:29:21,570 INFO  [Log] ------------------------------------------------- 
+2021-07-08 18:29:23,702 INFO  [Log] ------------------------------------------------- 
+2021-07-08 18:29:23,702 INFO  [Log] -----------     readXml      ---------------- 
+2021-07-08 18:29:23,702 INFO  [Log] ------------------------------------------------- 
+2021-07-08 18:29:23,702 INFO  [Log] test started! 
+2021-07-08 18:29:25,154 DEBUG [Log] File name is C:\Users\ASUS\Desktop\DiplomnaQA\The Project - source files\init.xlsx 
+2021-07-08 18:29:25,164 INFO  [Log] First cell is: TEST_NAME 
+2021-07-08 18:29:25,164 INFO  [Log] First cell is: BuyItemDetailsTest 
+2021-07-08 18:29:25,165 INFO  [Log] First cell is: TestWomenSubmenus 
+2021-07-08 18:29:25,167 INFO  [Log] First cell is: TestTshirtMenu 
+2021-07-08 18:29:25,167 INFO  [Log] First cell is: TestDressesSubmenus 
+2021-07-08 18:29:25,167 INFO  [Log] First cell is: BuyItemQuickViewTest 
+2021-07-08 18:29:25,168 INFO  [Log] First cell is: PopularTests 
+2021-07-08 18:29:25,168 INFO  [Log] First cell is: BuyItemQuickViewTest 
+2021-07-08 18:29:25,169 INFO  [Log] First cell is: CategoriesMyAccount 
+2021-07-08 18:29:25,169 INFO  [Log] First cell is: CategoriesWomenTest 
+2021-07-08 18:29:25,170 INFO  [Log] First cell is: CategoriesInformationTest 
+2021-07-08 18:29:25,170 INFO  [Log] First cell is: ContactUsTests 
+2021-07-08 18:29:25,172 INFO  [Log] First cell is: NewsletterTest 
+2021-07-08 18:29:25,172 INFO  [Log] First cell is: StoreInformationTest 
+2021-07-08 18:29:25,172 INFO  [Log] First cell is: SearchUnexistingItem 
+2021-07-08 18:29:25,173 INFO  [Log] First cell is: BestSellersTests 
+2021-07-08 18:29:25,173 INFO  [Log] ------------------------------------------------- 
+2021-07-08 18:29:25,173 INFO  [Log] -----------     E N D  TEST     ---------------- 
+2021-07-08 18:29:25,173 INFO  [Log] ------------------------------------------------- 
+2021-07-08 18:29:27,418 INFO  [Log] registration test started! 
+2021-07-08 18:29:39,245 ERROR [Log] Successful registration is failed. 
+2021-07-08 18:29:39,245 ERROR [Log] element not interactable: [object HTMLOptionElement] has no size and location
+  (Session info: chrome=91.0.4472.124)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-04R7I9N', ip: '172.16.252.52', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.19 (1bf021f248676..., userDataDir: C:\Users\ASUS\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:53930}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: cb8915ba47c55eb1f1fd8fd1b8beb602 
+2021-07-08 18:29:42,550 INFO  [Log] registration test - unsuccessful - started! 
+2021-07-08 18:30:03,931 ERROR [Log] Registration unsuccessful is failed. 
+2021-07-08 18:30:03,931 ERROR [Log] Expected condition failed: waiting for presence of element located by: By.xpath: .//div[@class='alert alert-danger']/p (tried for 5 second(s) with 500 milliseconds interval) 
+2021-07-20 19:21:04,798 ERROR [Log] Buy item details is failed. 
+2021-07-20 19:21:04,801 ERROR [Log] Expected condition failed: waiting for visibility of element located by By.xpath: //div[@class='header_user_info']/a[@class='account']/span (tried for 10 second(s) with 500 milliseconds interval) 
+2021-07-21 17:43:51,823 ERROR [Log] Buy item details is failed. 
+2021-07-21 17:43:51,830 ERROR [Log] Expected condition failed: waiting for visibility of element located by By.xpath: //div[@class='product-container']/div[@class='right-block']//a[@class ='product-name'] (tried for 10 second(s) with 500 milliseconds interval) 
+2021-07-21 17:43:52,243 ERROR [Log] The resource limit is reached!!! 
+2021-07-21 17:43:55,615 ERROR [Log] Buy item details is failed. 
+2021-07-21 17:43:55,616 ERROR [Log] unknown error: cannot determine loading status
+from disconnected: received Inspector.detached event
+  (Session info: chrome=91.0.4472.164)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-04R7I9N', ip: '172.16.252.201', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.164, chrome: {chromedriverVersion: 91.0.4472.19 (1bf021f248676..., userDataDir: C:\Users\ASUS\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:57536}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7681e32126f6c0437ab74ab49d9cb33e 
